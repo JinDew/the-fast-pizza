@@ -1,3 +1,3 @@
 # The Fast Pizza
 
-A project done from Jonas's Ultimate React Course
+A project I did during the time I learn from Jonas Schmedtmann's Ultimate React Course
