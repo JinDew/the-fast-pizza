@@ -76,7 +76,7 @@ function CreateOrder() {
               className="w-full input"
               type="text"
               name="address"
-              defaultValue=""
+              defaultValue={addressInfo}
               required
             />
           </div>
